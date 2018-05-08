@@ -67,3 +67,5 @@ app.get("/blogs/:id", function(req, res){
 app.listen(3000, function(){
     console.log("The Server has Started!");
 });
+
+// So much work and so much code sometimes gets crazy xD
